@@ -1,0 +1,9 @@
+cd desktop
+cd MovieStarter
+echo "# A01194169_gitlab" >> README.md
+git init
+git add README.md
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/katporks/A01194169_gitlab.git
+git push -u origin MovieStarter

@@ -91,7 +91,8 @@ function localStore() {
 
 function loading() {
      mList = JSON.parse(localStorage.getItem(mList));
-
+//added comments as an "issue fix"
+//another
 }
 
 // this is my javascript change
